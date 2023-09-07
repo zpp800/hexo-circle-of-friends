@@ -20,6 +20,8 @@ LINK:
   theme: common2
 - link: https://blog.anheyu.com/link/
   theme: common2
+- link: https://blog.zhheo.com/link/
+  theme: common2
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
